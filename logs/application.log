@@ -2,3 +2,22 @@
 2025-09-22 23:42:08 [main] INFO  Log - go URL
 2025-09-22 23:42:14 [main] INFO  Log - LoginTest starting
 2025-09-22 23:42:14 [main] INFO  Log - loginButton clicking
+2025-09-23 18:38:40 [main] INFO  Log - WebDriver starting
+2025-09-23 18:43:55 [main] INFO  Log - WebDriver starting
+2025-09-23 18:43:57 [main] INFO  Log - go URL
+2025-09-23 18:43:59 [main] INFO  Log - LoginTest starting
+2025-09-23 18:43:59 [main] INFO  Log - adding info
+2025-09-23 18:44:00 [main] INFO  Log - loginButton clicking
+2025-09-23 18:44:03 [main] INFO  Log - verifying page title
+2025-09-23 18:44:24 [main] INFO  Log - WebDriver starting
+2025-09-23 18:44:26 [main] INFO  Log - go URL
+2025-09-23 18:44:28 [main] INFO  Log - LoginTest starting
+2025-09-23 18:44:28 [main] INFO  Log - adding info
+2025-09-23 18:44:29 [main] INFO  Log - loginButton clicking
+2025-09-23 18:44:32 [main] INFO  Log - verifying page title
+2025-09-23 18:48:59 [main] INFO  Log - WebDriver starting
+2025-09-23 18:49:01 [main] INFO  Log - go URL
+2025-09-23 18:49:03 [main] INFO  Log - LoginTest starting
+2025-09-23 18:49:03 [main] INFO  Log - adding info
+2025-09-23 18:49:04 [main] INFO  Log - loginButton clicking
+2025-09-23 18:49:07 [main] INFO  Log - verifying page title
